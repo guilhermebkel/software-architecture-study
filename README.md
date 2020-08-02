@@ -4,9 +4,13 @@ This repository is a deep study about different kind of software architectures a
 
 ## Wildlife Studios
 
+### Bibliographic Reference
+
+- [How I Write Backend Systems at Wildlife Studios](https://medium.com/tech-at-wildlife-studios/write-backend-systems-50aae8db849e)
+
 ### Introduction
 
-Usually divide their system into three meaningful layers:
+They usually divide their system into three meaningful layers:
 
 **Delivery Layer ➡️ Business layer ➡️ Data Access Layer**
 
